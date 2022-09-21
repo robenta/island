@@ -1,0 +1,182 @@
+.navbar{
+    background: hsla(160, 100%, 75%, 1);
+
+    background: linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    background: -moz-linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    background: -webkit-linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#7FFFD4", endColorstr="#FFFFFF", GradientType=1 );
+}
+.navbar-toggler{
+    color: pink;
+}
+.navbar-toggler:hover{
+    color: pink;
+}
+.navbar-nav{
+    justify-content: space-evenly;
+    width: 90%;
+    list-style: none;
+    display: flex;
+}
+.navbar-brand{
+    padding-left: 30px;
+    margin-top: 15px;
+    color: rgb(245, 112, 134);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    height: 10vh;
+    font-size: xx-large;
+}
+.navbar-brand:hover{
+    color: rgb(245, 112, 134);
+}
+.nav-item a{
+    color: rgb(245, 112, 134);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.navbar a:hover{
+    color: rgb(245, 112, 134);
+}
+.dropdown-menu{
+    background: hsla(160, 100%, 75%, 1);
+
+    background: linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    background: -moz-linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    background: -webkit-linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#7FFFD4", endColorstr="#FFFFFF", GradientType=1 );
+}
+.dropdown-item:hover{
+    color: pink;
+}
+.carousels{
+    background: hsla(160, 100%, 75%, 1);
+
+    background: linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    background: -moz-linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    background: -webkit-linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#7FFFD4", endColorstr="#FFFFFF", GradientType=1 );
+}
+.carousel img{
+    border-radius: 20px;
+}
+.bbody{
+    color: rgb(245, 112, 134);
+}
+.footer{
+    color: rgb(7, 193, 131);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    background: hsla(160, 100%, 75%, 1);
+
+    background: linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    background: -moz-linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    background: -webkit-linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#7FFFD4", endColorstr="#FFFFFF", GradientType=1 );
+} 
+.footer ul{
+    list-style: none;
+}
+.footer h3{
+    color: rgb(245, 112, 134);
+    font-style: oblique;
+}
+.islander h2{
+    color: rgb(245, 112, 134);
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.islander a{
+    color: rgb(245, 112, 134);
+    text-decoration: none;
+    padding: 10px;
+    font-size: x-large;
+}
+.islander a:hover{
+    color: rgb(245, 112, 134);
+    text-decoration: none;
+}
+.isbreak{
+   background-color: rgb(245, 112, 134);
+   height: 2px thick;
+}
+.myform{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(245, 112, 134);
+    font-weight: bold;
+}
+.myform .btn{
+    background-color: rgb(245, 112, 134);
+    color: rebeccapurple;
+}
+.myform .btn:hover{
+    color: white;
+}
+
+
+
+/* .navbar{
+    background: hsla(160, 100%, 75%, 1);
+
+    background: linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    background: -moz-linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    background: -webkit-linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#7FFFD4", endColorstr="#FFFFFF", GradientType=1 );
+} */
+/* .navbar-nav{
+    justify-content: space-evenly;
+    width: 90%;
+    list-style: none;
+    display: flex;
+} */
+/* .navbar-brand{
+    margin-top: 23px;
+    color: pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    height: 10vh;
+}
+.navbar-brand:hover{
+    color: pink;
+}
+.dropdown-menu{
+    padding-top: 0%;
+    padding-bottom: 0%;
+    background: hsla(160, 100%, 75%, 1);
+
+    background: linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    background: -moz-linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    background: -webkit-linear-gradient(45deg, hsla(160, 100%, 75%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#7FFFD4", endColorstr="#FFFFFF", GradientType=1 );
+}
+.dropdown-item:hover{
+    color: rgb(2, 133, 90);
+    background: hsla(160, 100%, 75%, 1);
+
+    background: linear-gradient(45deg, hsla(160, 100%, 75%, 1) 100%, hsla(0, 0%, 100%, 1) 100%);
+
+    background: -moz-linear-gradient(45deg, hsla(160, 100%, 75%, 1) 100%, hsla(0, 0%, 100%, 1) 100%);
+
+    background: -webkit-linear-gradient(45deg, hsla(160, 100%, 75%, 1) 100%, hsla(0, 0%, 100%, 1) 100%);
+
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#7FFFD4", endColorstr="#FFFFFF", GradientType=1 );
+} */
